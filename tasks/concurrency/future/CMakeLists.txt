@@ -1,0 +1,2 @@
+add_library(stdlike_future INTERFACE)
+target_include_directories(stdlike_future INTERFACE ${CMAKE_CURRENT_SOURCE_DIR})

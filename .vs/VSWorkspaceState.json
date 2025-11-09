@@ -1,0 +1,18 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Local Machine": [
+      "out\\build\\x64-Debug",
+      "out\\install\\x64-Debug"
+    ]
+  },
+  "ExpandedNodes": [
+    "",
+    "\\tasks",
+    "\\tasks\\concurrency",
+    "\\tasks\\concurrency\\condvar",
+    "\\tasks\\concurrency\\condvar\\condvar",
+    "\\tasks\\concurrency\\condvar\\semaphore"
+  ],
+  "SelectedNode": "\\tasks\\concurrency\\future",
+  "PreviewInSolutionExplorer": false
+}
